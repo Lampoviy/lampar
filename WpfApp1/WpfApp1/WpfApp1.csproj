@@ -73,6 +73,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="math\mathclass.cs" />
     <Compile Include="NewFolder2\Class1.cs" />
     <Compile Include="page\Window1.xaml.cs">
       <DependentUpon>Window1.xaml</DependentUpon>
